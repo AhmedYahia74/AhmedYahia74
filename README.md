@@ -34,8 +34,12 @@
 <p align="center">
     <img src="https://bit.ly/37Epy2y" alt="C++" width="60px" title="C++"> 
     <img src="https://skillicons.dev/icons?i=java" alt="java" width="55px" title="Java">
-<!--     <img src="https://bit.ly/3stK11q" alt="Python" width="55px" title="Python">  -->
+    <img src="https://bit.ly/3stK11q" alt="Python" width="55px" title="Python"> 
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="55px" title="Git">
 <!--     <img src="https://bit.ly/3yvoEjR" alt="Git" width="55px" title="Git"> -->
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="55px" title="GitHub"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg" alt="Spring" width="55px" title="Spring">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Hibernate-Light.svg" alt="Hibernate" width="55px" title="Hibernate">
+<!--   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg" alt="Spring" width="55px" title="Spring">  -->
+
 </p>
