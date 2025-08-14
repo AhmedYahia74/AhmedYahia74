@@ -10,7 +10,7 @@
 
 
 <br><br>
-- :trophy: `ACPC` Finalist.
+- :trophy: `2x ACPC` Finalist.
 - :student: I’m currently learning `Computer Science`.
 <br>
 
